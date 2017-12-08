@@ -1,0 +1,4 @@
+// Update objects
+function update() {
+
+}
